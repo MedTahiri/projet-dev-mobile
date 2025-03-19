@@ -41,8 +41,8 @@ public class MainActivity extends AppCompatActivity {
 
     Profile profile;
 
-    // chose id from 1 to 10 for generate random profile info
-    private static final String API_URL_FOR_GET_PROFILE = "https://medtahiri.pythonanywhere.com/api/profile/?id=4";
+    // chose id from 32 to 60 for generate random profile info
+    private static final String API_URL_FOR_GET_PROFILE = "https://medtahiri.pythonanywhere.com/api/profile/?id=45";
 
     private static final String API_URL_FOR_UPDATE_PROFILE = "https://medtahiri.pythonanywhere.com/api/profile/";
 
